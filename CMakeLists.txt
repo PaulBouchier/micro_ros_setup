@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.8...3.25)
 project(micro_ros_setup)
 
 # Default to C99
